@@ -8,5 +8,6 @@ This Power BI report presents an in-depth analysis of global AI adoption across 
 - Which industries—such as Healthcare, Technology, or Education—are leading in AI adoption?
 - How does AI tool adoption vary across different company sizes (Startup, Enterprise, SME)?
 - What are the AI adoption trends across various age demographics (18–24, 25–34, etc.)?
+## Dashboard Interaction <a href ="
 ## Dataset:
 The data being used is from Kaggle <a herf:"https://www.kaggle.com/datasets/tfisthis/global-ai-tool-adoption-across-industries"> View Data</a>
